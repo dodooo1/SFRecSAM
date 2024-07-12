@@ -1,5 +1,5 @@
 # SFRecSAM
-Official implementation of [__"Domesticating SAM for Breast Ultrasound Image Segmentation via Spatial-frequency Fusion and Uncertainty Correction"__], ECCV2024.
+Official implementation of "Domesticating SAM for Breast Ultrasound Image Segmentation via Spatial-frequency Fusion and Uncertainty Correction", ECCV2024.
 
 ![image](https://github.com/dodooo1/SFRecSAM/blob/main/framework.jpg)
 
@@ -8,4 +8,4 @@ Due to the confidentiality agreement in commercial cooperation, we only provide 
 
 Acknowledgement
 -----
-We thank [SAMUS](https://github.com/xianlin7/SAMUS) for part of their codes.
+We thank [SAMUS](https://github.com/xianlin7/SAMUS) and [FNPC](https://github.com/xyimaging/FNPC) for part of their codes.
